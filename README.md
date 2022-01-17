@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning web development and data analysis
 - 🌱 I’m currently learning HTML, CSS and Javascript on freecodecamp
 
-- I only started on Jan 7 2022 so please be patient with me <3
+- I have only been coding for a short time so please be patient with me <3
 
 
 <!---
