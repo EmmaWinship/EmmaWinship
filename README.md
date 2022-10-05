@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @EmmaWinship
 - 👀 I’m interested in learning web development and data analysis
-- 🌱 I’m currently learning HTML, CSS and Javascript on freecodecamp
-
-- I have only been coding for a short time so please be patient with me <3
-
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript
 
 <!---
 EmmaWinship/EmmaWinship is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
